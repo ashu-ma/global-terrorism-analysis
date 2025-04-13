@@ -1,1 +1,1 @@
-Contains both the raw data and the cleaned data.
+Contains the cleaned data.
